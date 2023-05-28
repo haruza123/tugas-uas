@@ -1,5 +1,6 @@
 /* Mobile styles - use max-width */
 @media only screen and (max-width: 600px) {
+
   /* Right Menu setting */
   .rightContainer {
     padding: 0 !important;
@@ -135,6 +136,7 @@
     display: none;
   }
 
+  
   /* Main container setting */
   .mainContainer {
     margin-top: 74px !important;
